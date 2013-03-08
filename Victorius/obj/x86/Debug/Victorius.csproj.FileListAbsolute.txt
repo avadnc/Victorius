@@ -1,0 +1,13 @@
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\bin\Debug\Victorius_compilacion1.exe
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\bin\Debug\Victorius_compilacion1.pdb
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Debug\Victorius.Form1.resources
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Debug\Victorius.frm_agentes.resources
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Debug\Victorius.frm_terr_pa.resources
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Debug\Victorius.login.resources
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Debug\Victorius.Properties.Resources.resources
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Debug\Victorius_compilacion1.exe
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Debug\Victorius_compilacion1.pdb
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Debug\Victorius.frm_novedades.resources

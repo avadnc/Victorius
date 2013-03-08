@@ -1,0 +1,13 @@
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\bin\Release\Victorius_compilacion1.exe.config
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\bin\Release\Victorius_compilacion1.exe
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\bin\Release\Victorius_compilacion1.pdb
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Release\Victorius.Form1.resources
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Release\Victorius.frm_agentes.resources
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Release\Victorius.frm_terr_pa.resources
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Release\Victorius.login.resources
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Release\Victorius.Properties.Resources.resources
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Release\Victorius_compilacion1.exe
+C:\Users\avadnc\Dropbox\Workspace\Victorius\Victorius\obj\x86\Release\Victorius_compilacion1.pdb
